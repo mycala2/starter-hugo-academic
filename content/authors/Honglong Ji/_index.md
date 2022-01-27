@@ -1,0 +1,84 @@
+---
+# Display name
+title: Honglong (James) Ji, PhD
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position/tagline
+#role: Professor of Artificial Intelligence
+
+# Organizations/Affiliations to show in About widget
+#organizations:
+#- name: Stanford University
+#  url: https://www.stanford.edu/
+
+# Short bio (displayed in user profile at end of posts)
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
+# Interests to show in About widget
+#interests:
+#- Statistical methods for next-generation sequencing data
+#- Genetic studies of complex diseases
+#- Statistical methods for single cell transcriptomic data
+#- Integrative analysis of omics data
+
+# Education to show in About widget
+#education:
+#  courses:
+#  - course: PhD in Artificial Intelligence
+#    institution: Stanford University
+#    year: 2012
+#  - course: MEng in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2009
+#  - course: BSc in Artificial Intelligence
+#    institution: Massachusetts Institute of Technology
+#    year: 2008
+
+# Social/Academic Networking
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: "mailto:james..hl.ji@gmail.com"
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/gcushen
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ""
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+weight: 40
+user_groups:
+-  Members
+---
+
+**Professor, Texas Lung Injury Institute, Department of Cellular and Molecular Biology, University of Texas Health Science Center at Tyler**
+
+**Research Interests: Acute lung injury, ARDS, fibrinolysis, stem cell niche, regeneration, epithelial barrier, ion transport, COPD, therapeutic, lung injury repair.**
+
+My team focuses on the stem cell niches and extracellular matrix requested by pulmonary epithelial progenitor cells to re-epithelialize injured airway and lungs. These niche components include miRNAs, exosomes, and transfer of mitochondria and nucleotides via intercellular tunneling nanotubes. Our studies are supported by R01 grants. Meanwhile, we carry out clinical studies to identify therapeutic natural compounds and novel liquid biomarkers for ARDS and COPD combining human samples and animal models. 
+
+website: https://www.uthct.edu/biotech-faculty
