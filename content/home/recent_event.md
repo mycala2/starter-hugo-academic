@@ -42,8 +42,10 @@ design:
 
 |  |  |
 | --------------------- | -------------------------- |
+| 02/18/22 | Seminar: Engineered ACE2 Decoy Mitigates Lung Injury and Death Induced by SARS-CoV-2 Variants by Dr. Lianghui Zhang, Assistant Professor at University of Illinois at Chicago ({{% staticref "files/2021-2-18 Zhang.pdf" "newtab" %}}details{{% /staticref %}})|
+| 02/04/22 | Seminar: COVID-19 imprints airway basal cells to impair epithelium regeneration by Dr. Xingbin Ai, Associate Professor at Harvard Medical School ({{% staticref "files/2021-2-4 Ai.pdf" "newtab" %}}details{{% /staticref %}})|
+| 01/21/22 | Seminar: Reduced Notch1 Cleavage Promotes the Development of Pulmonary Hypertension by Dr. Jinjiang Pang, Associate Professor at University of Rochester ({{% staticref "files/2021-1-21 Pang v2.pdf" "newtab" %}}details{{% /staticref %}})|
 | 12/03/21 | Seminar: Decoding how vascular niche regulates lung and liver regeneration and repair by Dr. Bi-Sen Ding, Professor at Sichuan University |
 | 11/19/21 | Seminar: T helper cells in airway inflammation by Dr. Xuexian Yang, Associate Professor at University of New Mexico |
-| 11/05/21 | Seminar: Nuclear soluble cGAS senses DNA virus infection by Dr. Shitao Li, Associate Professor at Tulane University |
-| 10/22/21| Seminar: Laser facilitates sustained drug delivery and better vaccination by Dr. XinYuan Chen, Assistant Professor at University of Rhode Island |
-| 10/08/21 | Seminar: Cytosolic RNA Sensing Pathway Regulates Host Response to Mycobacterium tuberculosis Infection in Macrophages by Dr. Yong Cheng, Assistant Professor at Oklahoma State University|
+
+[more events]({{< ref "/event/_index.md" >}})
