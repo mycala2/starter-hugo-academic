@@ -44,7 +44,7 @@ Most recent events can be found in [online forum](http://groups.google.com/group
 
 |  |  |
 | --------------------- | -------------------------- |
-| 12/04/21 | {{% staticref "files/2020news.pdf" "newtab" %}}2020 News{{% /staticref %}} |
+| 12/04/21 | {{% staticref "files/2021news.pdf" "newtab" %}}2021 News{{% /staticref %}} |
 | 04/17/20-07/17/20 | {{% staticref "files/2020 cala friday smeinar talks from april to july.pdf" "newtab" %}}2020 CALA Happy Friday Seminar Series{{% /staticref %}} |
 | 04/14/20 | {{% staticref "files/april142020covid19forum.pdf" "newtab" %}}Online Brainstorm Forum{{% /staticref %}} |
 | 03/21/18 | {{% staticref "files/2018news.pdf" "newtab" %}}2018 News{{% /staticref %}} |

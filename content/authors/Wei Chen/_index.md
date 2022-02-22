@@ -75,9 +75,9 @@ user_groups:
 -  Members
 ---
 
-**Associate Professor of Pediatrics, Department of Pediatrics, School of Medicine, University of Pittsburgh**<br>
-**Associate Professor, Biostatistics, University of Pittsburgh**<br>
-**Associate Professor, Human Genetics,  University of Pittsburgh**
+**Professor of Pediatrics, Department of Pediatrics, School of Medicine, University of Pittsburgh**<br>
+**Professor, Biostatistics, University of Pittsburgh**<br>
+**Professor, Human Genetics,  University of Pittsburgh**
 
 **Research Interests : Statistical methods for next-generation sequencing data, genetic studies of complex diseases, statistical methods for single cell transcriptomic data, integrative analysis of omics data**
 
