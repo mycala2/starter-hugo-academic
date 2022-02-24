@@ -70,12 +70,12 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-weight: 211
+weight: 38
 user_groups:
 -  Members
 ---
 
-**Associate Professor, University of Arizona**
+**Professor, University of Arizona**
 
 **Research Interests : Lung, infection, immunity, virus, fungi, asthma.**
 

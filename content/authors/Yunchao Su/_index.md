@@ -70,7 +70,7 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 
-weight: 80
+weight: 197
 user_groups:
 -  Members
 ---
