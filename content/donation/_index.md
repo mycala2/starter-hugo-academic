@@ -13,6 +13,6 @@ view: 2
 #  image: "research.jpg"
 ---
 
-Thanks Biocytogen (http://www.biocytogen.com/) for their donation to CALA.
-
-For donations to CALA and advertisement, please contact CALA President Dr. Xiaobo Zhou at xiaobo.zhou@channing.harvard.edu  or CALA Treasurer Dr. Zhiyu Dai at zhiyudai@email.arizona.edu.
+Thanks Biocytogen (https://biocytogen.com, Platinum sponsor), Cell Biologics Inc (https://cellbiologics.com, Golden sponsor), and RWD Life Science (https://www.rwdstco.com, Silver sponsor) donation to CALA.
+ 
+For donations to CALA and advertisement, please contact CALA President Dr. Zhiyu Dai at zhiyudai@arizona.edu or CALA Treasurer Dr. Jianwen Que at jq2240@cumc.columbia.edu.
