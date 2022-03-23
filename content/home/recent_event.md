@@ -42,10 +42,10 @@ design:
 
 |  |  |
 | --------------------- | -------------------------- |
+| 03/18/22 | Seminar: Human Pluripoten Stem Cell-derive Lung Organoids, COVID-19 and Drug Development by Dr. Shuibing Chen, Professor at Weill Cornell Medicine ({{% staticref "files/2022-03-18 _Shuibing Chen.pdf" "newtab" %}}details{{% /staticref %}})|
+| 02/18/22 | Seminar: A Brief Introduction on Nanopore Sequencing by Dr. Hongxu Ding, Assistant Professor at University of Arizona ({{% staticref "files/2022-3-4 Ding.pdf" "newtab" %}}details{{% /staticref %}})|
 | 02/18/22 | Seminar: Engineered ACE2 Decoy Mitigates Lung Injury and Death Induced by SARS-CoV-2 Variants by Dr. Lianghui Zhang, Assistant Professor at University of Illinois at Chicago ({{% staticref "files/2021-2-18 Zhang.pdf" "newtab" %}}details{{% /staticref %}})|
 | 02/04/22 | Seminar: COVID-19 imprints airway basal cells to impair epithelium regeneration by Dr. Xingbin Ai, Associate Professor at Harvard Medical School ({{% staticref "files/2021-2-4 Ai.pdf" "newtab" %}}details{{% /staticref %}})|
 | 01/21/22 | Seminar: Reduced Notch1 Cleavage Promotes the Development of Pulmonary Hypertension by Dr. Jinjiang Pang, Associate Professor at University of Rochester ({{% staticref "files/2021-1-21 Pang v2.pdf" "newtab" %}}details{{% /staticref %}})|
-| 12/03/21 | Seminar: Decoding how vascular niche regulates lung and liver regeneration and repair by Dr. Bi-Sen Ding, Professor at Sichuan University |
-| 11/19/21 | Seminar: T helper cells in airway inflammation by Dr. Xuexian Yang, Associate Professor at University of New Mexico |
 
 [more events]({{< ref "/event/_index.md" >}})

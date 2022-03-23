@@ -50,6 +50,11 @@
   weight = 18
 
 [[main]]
+  name = "Positions"
+  url = "positions"
+  weight = 18.5
+
+[[main]]
   name = "Donations"
   url = "donation"
   weight = 50
