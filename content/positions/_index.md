@@ -14,3 +14,7 @@ view: 2
 ---
 
 {{% staticref "files/Yin Chen Positions.pdf" "newtab" %}}Dr. Yin Chen's Lab{{% /staticref %}}
+
+{{% staticref "files/Dianhua Jiang Positions.pdf" "newtab" %}}Dr. Dianhua Jiang's Lab{{% /staticref %}}
+
+
