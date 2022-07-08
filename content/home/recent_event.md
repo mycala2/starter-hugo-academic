@@ -42,11 +42,11 @@ design:
 
 |  |  |
 | --------------------- | -------------------------- |
-| 04/08/22 | Seminar: Dissecting alveolar patterning and maintenance at single-cell resolution by Dr. Astrid Gillich, Principal Investigator at Calico Life Sciences, San Francisco ({{% staticref "files/2022-04-08 Astrid Gillich.pdf" "newtab" %}}details{{% /staticref %}})|
-| 03/18/22 | Seminar: Human Pluripoten Stem Cell-derive Lung Organoids, COVID-19 and Drug Development by Dr. Shuibing Chen, Professor at Weill Cornell Medicine ({{% staticref "files/2022-03-18 _Shuibing Chen.pdf" "newtab" %}}details{{% /staticref %}})|
-| 02/18/22 | Seminar: A Brief Introduction on Nanopore Sequencing by Dr. Hongxu Ding, Assistant Professor at University of Arizona ({{% staticref "files/2022-3-4 Ding.pdf" "newtab" %}}details{{% /staticref %}})|
-| 02/18/22 | Seminar: Engineered ACE2 Decoy Mitigates Lung Injury and Death Induced by SARS-CoV-2 Variants by Dr. Lianghui Zhang, Assistant Professor at University of Illinois at Chicago ({{% staticref "files/2021-2-18 Zhang.pdf" "newtab" %}}details{{% /staticref %}})|
-| 02/04/22 | Seminar: COVID-19 imprints airway basal cells to impair epithelium regeneration by Dr. Xingbin Ai, Associate Professor at Harvard Medical School ({{% staticref "files/2021-2-4 Ai.pdf" "newtab" %}}details{{% /staticref %}})|
-| 01/21/22 | Seminar: Reduced Notch1 Cleavage Promotes the Development of Pulmonary Hypertension by Dr. Jinjiang Pang, Associate Professor at University of Rochester ({{% staticref "files/2021-1-21 Pang v2.pdf" "newtab" %}}details{{% /staticref %}})|
+| 07/08/22 | Seminar: Understanding Long COVID – from Clinical Perspective by Dr. Jinghong Li, Associate Professor at University of California San Diego ({{% staticref "files/2022-07-08 Jinghong Li.pdf" "newtab" %}}details{{% /staticref %}})|
+| 06/24/22 | Seminar: Presentation by Dr. Xiangming Ji, Assistant Professor at Georgia State University ({{% staticref "files/2022-06-24 Xiangming Ji.pdf" "newtab" %}}details{{% /staticref %}})|
+| 06/10/22 | Seminar: Therapeutic targeting Mevalonate-Geranylgeranyl Diphosphate Pathway with Statins Overcomes Chemotherapy-resistance in Small Cell Lung Cancer by Dr. Hongbin Ji, Professor at Shanghai Institute of Biochemistry and Cell Biology ({{% staticref "files/2022-06-10 Dr Hongbin Ji.pdf" "newtab" %}}details{{% /staticref %}})|
+| 05/06/22 | Seminar: Towards Understanding the Epigenetic Regulation Of Childhood Asthma by Dr. Hong Ji, Assistant Professor at School of Veterinary Medicine, University of California, Davis ({{% staticref "files/2022-05-06 Dr Hong Ji.pdf" "newtab" %}}details{{% /staticref %}})|
+| 04/22/22 | Seminar: Transcriptional and Metabolic Regulation of Host Immune Responses by Dr. Liang Zhou, Professor at College of Veterinary Medicine, the University of Florida ({{% staticref "files/2022-04-22 Liang Zhou.pdf" "newtab" %}}details{{% /staticref %}})|
+| 04/15/22 | Seminar: Leveraging Clues from Stem cells to treat pulmonary arterial hypertension by Dr. Jun Yang, Professor at Department of Physiology, Zhejiang University School of Medicine ({{% staticref "files/2022-04-15 Jun Yang v2.pdf" "newtab" %}}details{{% /staticref %}})|
 
 [more events]({{< ref "/event/_index.md" >}})
