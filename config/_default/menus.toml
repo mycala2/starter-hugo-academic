@@ -55,6 +55,11 @@
   weight = 18.5
 
 [[main]]
+  name = "Conference"
+  url = "conference"
+  weight = 25
+
+[[main]]
   name = "Donations"
   url = "donation"
   weight = 50
