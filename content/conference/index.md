@@ -16,4 +16,4 @@ view: 2
 |  |  |
 | --------------------- | -------------------------- | -------------------------- |
 | Date | Location | Conference |
-| February 11-13, 2023 | Orlando, Florida | International Respiratory Medicine (IRM) Conference 2023 (<a href="https://www.eventbrite.com/e/international-respiratory-medicine-conference-2023-tickets-410074733567">Get tickets here</a>)|
+| February 11-13, 2023 | Orlando, Florida | International Respiratory Medicine (IRM) Conference 2023 (<a href="https://www.eventbrite.com/e/international-respiratory-medicine-conference-2023-tickets-410074733567">Get tickets here</a>, {{% staticref "files/IRM program final v2.pdf" "newtab" %}}find schedule here{{% /staticref %}})|
