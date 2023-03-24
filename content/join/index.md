@@ -13,4 +13,4 @@ view: 2
 #  image: "research.jpg"
 ---
 
-To join CALA membership, please fill in this form (<a href="new member information.xls" target="_blank">click here</a >) and send to CALA Membership Committee Chair Dr. Qiang Ding at qding@uab.edu.
+To join CALA membership, please fill in this form (<a href="new member information.xls" target="_blank">click here</a >) and send to CALA Membership Committee Chair Dr. Zhiyu Dai at zhiyudai@arizona.edu.
